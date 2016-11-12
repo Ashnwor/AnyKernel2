@@ -3,13 +3,13 @@
 
 ## AnyKernel setup
 # EDIFY properties
-kernel.string=Gods-Kernel By AudioGod 
+kernel.string=Thunder Kernel by Ashnwor @ XDA
 do.devicecheck=1
 do.initd=1
 do.modules=1
 do.cleanup=1
-device.name1=YUREKA
-device.name2=YU AO5510
+device.name1=crackling
+device.name2=
 device.name3=
 device.name4=
 device.name5=
